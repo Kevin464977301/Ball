@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="can1">
+  <canvas class="can2" canvas-id="canva" markers="mark" />
+</view>
