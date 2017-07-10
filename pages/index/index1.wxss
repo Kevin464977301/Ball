@@ -1,0 +1,9 @@
+/* pages/index/index1.wxss */
+.can3{
+  width:100%;
+  height:100vh;
+}
+.can4{
+  width:100%;
+  height:100%;
+}

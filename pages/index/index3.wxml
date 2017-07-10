@@ -1,0 +1,4 @@
+<!--pages/index/index3.wxml-->
+<view class="class1">
+  <canvas class="ca" canvas-id="doublecan" />
+</view>
