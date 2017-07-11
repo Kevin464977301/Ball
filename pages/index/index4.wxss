@@ -1,0 +1,9 @@
+/* pages/index/index4.wxss */
+.aclass{
+  width:100%;
+  height:100vh;
+}
+.qiu{
+  width:100%;
+  height:100%;
+}

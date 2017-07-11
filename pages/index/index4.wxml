@@ -1,0 +1,4 @@
+<!--pages/index/index4.wxml-->
+<view class="aclass">
+  <canvas class="qiu" canvas-id="canvasid" />
+</view>
